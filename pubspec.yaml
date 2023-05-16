@@ -29,7 +29,7 @@ dev_dependencies:
   json_serializable: ^6.6.2
 
 flutter_launcher_icons:
-  android: "launcher_icon"
+  android: true
   image_path: "assets/launcher_icon.png"
 
 flutter:
